@@ -33,6 +33,9 @@ Your eligibility can differ by account, country, plan, billing cycle, and previo
 
 ## Best Helium 10 Coupon for Platinum
 
+<img width="600" height="984" alt="Helium-10-proof" src="https://github.com/user-attachments/assets/ffec580e-1a8e-4156-b335-4f2c94dd4e89" />
+
+
 ### Use `AFF_EXITPOP25` to get 25% off for six months
 
 If you want Platinum without committing to annual billing, start with `AFF_EXITPOP25`. The official Helium 10 partner page presented the offer as **25% off six months of Platinum for $96.75 per month**.
